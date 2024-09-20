@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sumotiwawasa.vercel.app/sitemap.xml
